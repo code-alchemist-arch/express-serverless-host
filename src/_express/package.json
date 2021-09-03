@@ -1,0 +1,8 @@
+{
+  "main": "./handler.js",
+  "author": "Serverless, Inc.",
+  "license": "Apache",
+  "dependencies": {
+    "serverless-http": "^2.7.0"
+  }
+}

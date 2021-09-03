@@ -1,0 +1,8 @@
+{
+  "main": "app.js",
+  "author": "Serverless, Inc.",
+  "license": "Apache",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

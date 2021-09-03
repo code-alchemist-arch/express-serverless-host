@@ -1,0 +1,6 @@
+component: express
+name: express-starter
+org: serverlessinc
+
+inputs:
+  src: ./

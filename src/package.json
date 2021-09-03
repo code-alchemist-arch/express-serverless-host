@@ -1,0 +1,11 @@
+{
+  "main": "./serverless.js",
+  "author": "Serverless, Inc.",
+  "license": "Apache",
+  "dependencies": {
+    "@serverless/aws-sdk-extra": "^1.0.0",
+    "fs-extra": "^8.1.0",
+    "moment": "^2.27.0",
+    "parse-domain": "^3.0.3"
+  }
+}
